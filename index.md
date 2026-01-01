@@ -6,3 +6,13 @@ I am learning GitHub and Markdown.
 It helps developers collaborate.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## TypeScript Example
+
+```ts
+function greet(name: string): string {
+  return `Hello, ${name}!`;
+}
+
+console.log(greet("World"));
+```
